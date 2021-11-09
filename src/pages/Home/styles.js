@@ -9,7 +9,8 @@ export const Container = styled.aside`
   height: 100vh;
   overflow-y: scroll;
 `;
-
+//vh - view height = height completely for user 
+//overflow-y: scroll = content inside the box
 export const Search = styled.section`
   display: flex;
   flex-direction: column;
