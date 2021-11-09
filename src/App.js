@@ -4,7 +4,7 @@ import { Reset } from 'styled-reset';
 
 import Home from './pages/Home';
 import theme from './theme';
-
+//add theme creating
 function App() {
   return (
     <ThemeProvider theme={theme}>
