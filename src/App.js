@@ -15,3 +15,5 @@ function App() {
 }
 
 export default App;
+
+//using style reset npm i style reset
