@@ -15,7 +15,7 @@ export const Search = styled.section`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: #ffffff;
+  background-color: #e6fff7;
   padding: 16px;
 `;
 
